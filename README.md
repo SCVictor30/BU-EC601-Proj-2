@@ -11,7 +11,7 @@ Each object within Twitter - a Tweet, Direct Message, User, List, and so on - ha
 ### References
 This test program for Google NLP APIs I referenced from Google Cloud - Python Cloud Client Libraries (https://cloud.google.com/python/docs/reference)
 ### Results
-<img width="1366" alt="截屏2022-10-07 下午4 20 51" src="https://user-images.githubusercontent.com/105094522/194652740-6d481b61-0893-48db-ab51-d299f1c0deb5.png">
+<img width="405" alt="截屏2022-10-07 下午3 14 42" src="https://user-images.githubusercontent.com/105094522/194655716-a21d1934-5e5f-4bde-8f01-aed47999ea5c.png">
 This result analyzes the emotions expressed based on the words 'Hello World!'.
 ## Botometer APIs
 ### References
