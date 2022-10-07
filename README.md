@@ -7,12 +7,14 @@ This test program for Twitter APIs I referenced on Twitter Developer Platform, u
 ### Results
 <img width="1366" alt="截屏2022-10-07 下午4 20 51" src="https://user-images.githubusercontent.com/105094522/194646899-00c9bbbf-6382-49cf-bf2e-8c169819c45c.png">
 Each object within Twitter - a Tweet, Direct Message, User, List, and so on - has a unique ID. The results of test program give us the author_id, edit_history_tweet_ids, id and text. The steps in this test program consist of using an authorized connection and accessing the latest tweet from a specified user (I used Tim cook), then giving the results.
+
 ## Google NLP APIs
 ### References
 This test program for Google NLP APIs I referenced from Google Cloud - Python Cloud Client Libraries (https://cloud.google.com/python/docs/reference)
 ### Results
 <img width="405" alt="截屏2022-10-07 下午3 14 42" src="https://user-images.githubusercontent.com/105094522/194655716-a21d1934-5e5f-4bde-8f01-aed47999ea5c.png">
 This result analyzes the emotions expressed based on the words 'Hello World!'.
+
 ## Botometer APIs
 ### References
 This work finished on Rapid API(https://rapidapi.com/OSoMe/api/botometer-pro)
