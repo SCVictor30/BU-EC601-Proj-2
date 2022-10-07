@@ -17,6 +17,6 @@ This result analyzes the emotions expressed based on the words 'Hello World!'.
 
 ## Botometer APIs
 ### References
-This work finished on Rapid API(https://rapidapi.com/OSoMe/api/botometer-pro)
+This work is done on Rapid API.(https://rapidapi.com/OSoMe/api/botometer-pro)
+### Results
 <img width="1406" alt="截屏2022-10-06 下午4 59 46" src="https://user-images.githubusercontent.com/105094522/194653378-91dfa33a-5f34-42b6-9dad-277dddee14db.png">
-I did Botometer APIs test on Rapid API test endpoint.
